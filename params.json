@@ -1,0 +1,6 @@
+{
+  "name": "Random-quote-generator",
+  "tagline": "",
+  "body": "# Random-quote-Generator\r\n\r\nThis application genrates Random Quotes from a pre-defined set of quotes in an array.\r\nJavascript is added into the html\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
