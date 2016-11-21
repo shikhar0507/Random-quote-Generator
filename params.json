@@ -1,6 +1,6 @@
 {
   "name": "Random-quote-generator",
   "tagline": "A web application that generates random quote.",
-  "body": "### # Random Quote Generator\r\nThis application generates random quote on click of a button.\r\nI created this application as a web development project for [Free Code Camp](http://freecodecamp.com/)\r\n### Technologies Used\r\nFor the making of this application, I used HTML/CSS/BOOTSTRAP for styling and making the webpage.\r\nThe whole functionality is build using javascript and jquery.\r\n\r\n***\r\n\r\n\r\n### # How does it work\r\nOn click of a button, a random quote appears on the screen.\r\nThe quote is selected from a pre-defined set of Quotes in the array.\r\nJquery manages the triggers as well as animation that goes with it.\r\n### Authors and Contributors\r\nThis web application was created by Shikhar kapila.\r\nYou can reach him by:\r\n* Email : [kap.shikhar@gmail.com](kap.shikhar@gmail.com)\r\n\r\n",
+  "body": "# Random-quote-Generator\r\n\r\nThis application genrates Random Quotes from a pre-defined set of quotes in an array.\r\nJavascript is added into the html\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
